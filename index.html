@@ -1,0 +1,100 @@
+---
+layout: default
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+    }
+
+    nav {
+      position: sticky;
+      top: 0;
+      background: #333;
+      color: #fff;
+      padding: 10px 0;
+      z-index: 1000;
+    }
+
+    nav ul {
+      list-style: none;
+      display: flex;
+      justify-content: center;
+      margin: 0;
+      padding: 0;
+    }
+
+    nav ul li {
+      margin: 0 15px;
+    }
+
+    nav ul li a {
+      color: #fff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    nav ul li a:hover {
+      text-decoration: underline;
+    }
+
+    section {
+      padding: 60px 20px;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    section:nth-of-type(odd) {
+      background: #f4f4f4;
+    }
+
+    section:nth-of-type(even) {
+      background: #fff;
+    }
+
+    h2 {
+      margin-top: 0;
+    }
+  </style>
+</head>
+<body>
+
+<nav>
+  <ul>
+    <li><a href="#intro">Intro</a></li>
+    <li><a href="#about">About</a></li>
+    <li><a href="#services">Services</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</nav>
+
+<section id="intro">
+  <h2>Intro</h2>
+  <p>Welcome to this scrollable page. This section introduces the purpose of the site or document.</p>
+</section>
+
+<section id="about">
+  <h2>About</h2>
+  <p>This section contains information about the organization or individual. You can include history, mission, and values.</p>
+</section>
+
+<section id="services">
+  <h2>Services</h2>
+  <p>Describe the services or products offered. Use bullet points or headings if you have multiple offerings.</p>
+</section>
+
+<section id="contact">
+  <h2>Contact</h2>
+  <p>Include a contact form, email address, or links to social media. You can also embed a map or other contact methods.</p>
+</section>
+
+</body>
+</html>
