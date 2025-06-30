@@ -259,6 +259,8 @@ main.container {
 
 .experience-card .card-image-wrapper {
     margin: 10px;
+    height: 100px;
+    justify-content: center;
 }
 
 .experience-card li {
