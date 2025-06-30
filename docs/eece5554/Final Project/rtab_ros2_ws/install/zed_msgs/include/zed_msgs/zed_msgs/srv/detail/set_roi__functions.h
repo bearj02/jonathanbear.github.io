@@ -1,1 +1,0 @@
-/home/jon/rtab_ros2_ws/build/zed_msgs/rosidl_generator_c/zed_msgs/srv/detail/set_roi__functions.h

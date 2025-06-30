@@ -1,1 +1,0 @@
-/home/jon/rtab_ros2_ws/build/zed_msgs/rosidl_generator_c/zed_msgs/msg/detail/keypoint2_di__type_support.h

@@ -1,1 +1,0 @@
-/home/jon/rtab_ros2_ws/build/rtabmap_sync/cmake/extra_configs.cmake

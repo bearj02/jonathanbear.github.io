@@ -1,1 +1,0 @@
-/home/jon/rtab_ros2_ws/build/rtabmap_msgs/rosidl_cmake/srv/GetMap_Response.msg

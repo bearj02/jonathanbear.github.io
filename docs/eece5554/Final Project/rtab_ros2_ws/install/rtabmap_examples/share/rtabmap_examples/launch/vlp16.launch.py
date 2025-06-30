@@ -1,1 +1,0 @@
-/home/jon/rtab_ros2_ws/src/rtabmap_ros/rtabmap_examples/launch/vlp16.launch.py
