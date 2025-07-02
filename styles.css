@@ -259,9 +259,9 @@ main.container {
 
 .experience-card .card-image-wrapper {
     margin: 10px;
-    height: 200px;
+    height: 150px;
     width: 250px;
-    max-height: 200px;
+    max-height: 150px;
     max-width: 250px;
     object-fit: contain;
     justify-self: stretch;
