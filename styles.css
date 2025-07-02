@@ -350,7 +350,7 @@ main.container {
 
 /* show the content while lthe project card is hovered */
 .project-card-content:hover {
-    opacity: 1;
+    opacity: 2;
 }
 
 .project-card-content h4 {
