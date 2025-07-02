@@ -208,6 +208,7 @@ main.container {
     margin: 8px;
     color: white;
     transition: all 0.5s ease;
+    opacity: 1;
 }
 
 /* change the color of each icons while hovering */
