@@ -303,32 +303,32 @@ main.container {
 
 /* add background image to first project card */
 .project-card-1 {
-    background-image: "3D Tunnel.png";
+    background-image: url("3D Tunnel.png");
 }
 
 /* add background image to second project card */
 .project-card-2 {
-    background-image: "S32K144EVB_GS-PINS.jpg";
+    background-image: url("S32K144EVB_GS-PINS.jpg");
 }
 
 /* add background image to third project card */
 .project-card-3 {
-    background-image: "BT (1).png";
+    background-image: url("BT (1).png");
 }
 
 /* add background image to forth project card */
 .project-card-4 {
-    background-image: "P1000-plc_400.jpg";
+    background-image: url("P1000-plc_400.jpg");
 }
 
 /* add background image to fifth project card */
 .project-card-5 {
-    background-image: "tennibot.png";
+    background-image: url("tennibot.png");
 }
 
 /* add background image to sixth project card */
 .project-card-6 {
-    background-image: "logo_1682721801.955384.png";
+    background-image: url("logo_1682721801.955384.png");
 }
 
 /* style for paragraph element within project card */
