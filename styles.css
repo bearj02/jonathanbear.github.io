@@ -360,8 +360,8 @@ main.container {
 
 .project-card-content li {
     list-style-type: square;
-    font-sze: medium;
-    justify-self:left;
+    font-size: medium;
+    justify-self:flex-start;
 }
 
 /* styles the form element */
