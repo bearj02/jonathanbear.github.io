@@ -350,6 +350,24 @@ main.container {
     opacity: 1;
 }
 
+.project-card ul {
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.762);
+    color: black;
+    font-weight: bold;
+    position: absolute;
+
+    /* initially hide the content */
+    opacity: 0;
+    transition: all 0.4s ease;
+}
+
+.project-card:hover ul {
+    opacity: 1;
+}
+
 /* styles the form element */
 form {
     background-color: white;
