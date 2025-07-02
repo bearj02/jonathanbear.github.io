@@ -264,7 +264,7 @@ main.container {
     max-height: 150px;
     max-width: 250px;
     object-fit: contain;
-    justify-content: center;
+    justify-content: flex-start;
 
 }
 
@@ -361,7 +361,7 @@ main.container {
 .project-card-content li {
     list-style-type: square;
     font-sze: medium;
-    justify-content: left;
+    justify-content: flex-start;
 }
 
 /* styles the form element */
