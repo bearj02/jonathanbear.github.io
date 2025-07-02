@@ -376,6 +376,11 @@ main.container {
     list-style: None;
 }
 
+.project-card .list-heading {
+    font-weight: bold;
+    margin: 12px 8px;
+}
+
 /* styles the form element */
 form {
     background-color: white;
