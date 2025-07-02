@@ -368,6 +368,14 @@ main.container {
     opacity: 1;
 }
 
+.project-card ul li {
+    padding: 8px  12px;
+}
+
+.project-card ul li:hover {
+    list-style: None;
+}
+
 /* styles the form element */
 form {
     background-color: white;
