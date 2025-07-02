@@ -356,6 +356,7 @@ main.container {
 
 .project-card-content li {
     list-style: none;
+    font-size: small;
 }
 
 /* styles the form element */
