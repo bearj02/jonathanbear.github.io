@@ -303,32 +303,32 @@ main.container {
 
 /* add background image to first project card */
 .project-card-1 {
-    background-image: url("https://img.freepik.com/premium-vector/online-shopping-digital-technology-with-icon-blue-background-ecommerce-online-store-marketing_252172-219.jpg");
+    background-image: "3D Tunnel.png";
 }
 
 /* add background image to second project card */
 .project-card-2 {
-    background-image: url("https://images.unsplash.com/photo-1522199755839-a2bacb67c546?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-image: "S32K144EVB_GS-PINS.jpg";
 }
 
 /* add background image to third project card */
 .project-card-3 {
-    background-image: url("https://images.unsplash.com/photo-1499750310107-5fef28a66643?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-image: "BT (1).png";
 }
 
 /* add background image to forth project card */
 .project-card-4 {
-    background-image: url("https://d3h2k7ug3o5pb3.cloudfront.net/image/2020-01-10/b7372130-3382-11ea-a700-a5080a3a032a.png");
+    background-image: "P1000-plc_400.jpg";
 }
 
 /* add background image to fifth project card */
 .project-card-5 {
-    background-image: url("https://img.freepik.com/premium-vector/creative-horizontal-website-screen-part-responsive-web-design-project-development-abstract-geometric-pattern-banner-layout-mock-up-corporate-landing-page-block-vector-illustration-template_181182-13902.jpg?w=2000");
+    background-image: "tennibot.png";
 }
 
 /* add background image to sixth project card */
 .project-card-6 {
-    background-image: url("https://img.freepik.com/premium-photo/responsive-design-e-magazine-website-devices-isolated-white-background-3d-rendering-mockup_72104-3724.jpg");
+    background-image: "logo_1682721801.955384.png";
 }
 
 /* style for paragraph element within project card */
