@@ -354,11 +354,11 @@ main.container {
 
 .project-card-content h4 {
     font-weight: bold;
+    font-size: large;
 }
 
 .project-card-content li {
-    list-style: none;
-    font-size: small;
+    list-style: square;
 }
 
 /* styles the form element */
