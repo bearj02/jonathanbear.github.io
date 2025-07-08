@@ -270,11 +270,19 @@ main.container {
 } */
 
 .experience-card .card-image-wrapper {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start; /* Keeps image at the top */
+  height: 150px;
+  width: 250px;
+  margin: 10px auto; /* auto left/right centers the wrapper itself */
 }
 
+.experience-card .card-image-wrapper img {
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+}
 
 .experience-card li {
     list-style: none;
