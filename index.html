@@ -48,6 +48,13 @@ layout: default
                         <li><a href="#contact-section">CONTACT</a></li>
                     </ul>
                 </nav>
+                <script>
+                  document.querySelectorAll('.main-navbar a').forEach(function(link) {
+                    link.addEventListener('click', function() {
+                      document.getElementById('menu-button').checked = false;
+                    });
+                  });
+                </script>
             </div>
         </header>
 
