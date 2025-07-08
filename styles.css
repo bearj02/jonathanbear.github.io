@@ -263,12 +263,12 @@ main.container {
   justify-content: center;
   align-items: flex-start; /* Keeps SVG at the top */
   height: 150px;           /* Adjust as needed */
-  width: 250px;            /* Adjust as needed */
+  width: auto;            /* Adjust as needed */
   margin: 10px auto;       /* Centers the container itself */
 }
 
 .experience-card .SVG svg {
-  width: 100%;
+  width: auto;
   height: 100%;
   display: block;
 }
