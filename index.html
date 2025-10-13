@@ -232,6 +232,29 @@ layout: default
                             </ul>
                           </div>
                         </div>
+
+                      <!-- seventh project card -->
+                        <div class="project-card project-card-7">
+                          <div class="project-card-content">
+                            <h4>Scene Reconstruction and Optimization via GTSAM</h4>
+                            <ul>
+                              <li>Homography Estimation: Extracted SIFT features from a set of images of the same underwater scene with varying amounts of overlap in order to estimate image-to-iamge homographies with RANSAC</li>
+                              <li>Factor Graph Optimization: Utilized GTSAM library to build a factor graph of the underwater scene in order to optimize image poses with the Levenberg-Marquardt algorithm</li>
+                            </ul>
+                          </div>
+                        </div>
+
+                      <!-- sixth project card -->
+                        <div class="project-card project-card-8">
+                          <div class="project-card-content">
+                            <h4>Sensor Integration Kalmann Filter</h4>
+                            <ul>
+                              <li>IMU Data Integration: Ubiased, Filtered, and Integrated Noisy IMU data from a rosbag in order to estimate the trajectory of a vehicle traveling through downtown Boston</li>
+                              <li>Kalmann Filter: IMU trajectory estimations used as the predict step, while GPS fixes from the rosbag were used to perform the correct step</li>
+                              <li>Tunnel Optimization: GPS fixes were not available while the vehicle was in a tunnel, so the filter was tuned to rely on IMU trajectory estimations for an extended period of time</li>
+                            </ul>
+                          </div>
+                        </div>
                     </div>
                 </div>
             </section>
