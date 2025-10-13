@@ -342,6 +342,14 @@ main.container {
     background-image: url("logo_1682721801.955384.png");
 }
 
+.project-card-7 {
+    background-image: url("pano.png");
+}
+
+.project-card-6 {
+    background-image: url("output.png");
+}
+
 /* style for paragraph element within project card */
 .project-card-content {
     width: 100%;
